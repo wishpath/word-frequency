@@ -1,0 +1,3 @@
+[submodule ".mod/util"]
+	path = .mod/util
+	url = https://github.com/wishpath/util.git
